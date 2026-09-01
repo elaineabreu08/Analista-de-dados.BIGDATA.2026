@@ -50,5 +50,5 @@ while rodando:
 #O comando if busca == prato["codigo"] or busca == prato["nome"] verifica se a entrada do usuário combina com o número ou com o nome do item.
 
 #Loop while, mantém o cardápio ativo para várias consultas até que o usuário digite "sair".
-hhhhhhh
+
 
