@@ -1,1 +1,0 @@
-# Analista-de-dados.BIGDATA.2026
